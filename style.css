@@ -1,0 +1,28 @@
+h1 { color:white; font-size: xx-large; text-align: center;}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+h2 { color: white; text-align: center; font-size: larger;}    
+
+p { font-size: x-large; background-color: white; text-size-adjust: 100px;}
+
+body {background-color: black;}
+
+P.albuns {
+    font-size: large;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em }
+
+a {
+    text-align: center;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+}
+
+h3 {color: white;}
+
+ul {color: white;}
